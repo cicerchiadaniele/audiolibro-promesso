@@ -653,7 +653,7 @@ window.CATALOGO = {
         {
           "file": "37_Pasquali Luisa.mp3",
           "parte": null,
-          "lettore": "Pasquali Luisa",
+          "lettore": "Fanfani Luisa",
           "formato": "mp3",
           "byte": 51530604,
           "data": "2026-08-29",
